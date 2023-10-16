@@ -1,0 +1,116 @@
+body{ 
+}      
+
+.container{
+    position: absolute;
+    left: 500px;
+}
+#dev{
+    position: absolute;
+    bottom: 900px;
+    left: 630px;
+}
+#lorem{
+    position: absolute;
+    bottom: 500px;
+    left: 450px;
+}
+#help{
+    position: relative;
+    left: 800px;
+    bottom: 250px;
+}
+.box2{
+    position: relative;
+    left: 800px;
+    bottom:150px ;
+}
+#des{
+    position: absolute;
+    bottom:-70px ;
+}
+.main{
+    display: flex;
+    position: relative;
+    left: 790px;
+    top: 980px;
+}
+.box3{
+    position: relative;
+    left: 1330px;
+    top: 980px;
+}
+#about{
+    position: relative;
+   
+}
+#styl{
+    position: absolute;
+    left: 250px;
+    top: 150px;
+}
+.box4{
+    position: absolute;
+    top: 1830px;
+    left: 505px;
+}
+#lorem1{
+    position: relative;
+    bottom: 600px;
+    left: 300px;
+}
+#lorem2{
+    position: relative;
+    bottom: 1000px;
+    left: 800px;
+}
+#lorem3{
+    position: relative;
+    bottom: 1405px;
+    left: 1300px;
+}
+#helpe{
+    position: absolute;
+    left: 850px;
+    top: 550px ;
+}
+.box5{
+    position: relative;
+    left: 800px;
+    bottom: 1150px;
+}
+#tp1{
+    position: relative;
+    left: 250px;
+    top: 100px;
+}
+#tp2{
+    position: relative;
+    left: 250px;
+    top: 150px;
+}
+#tp3{
+    position: relative;
+    right: 390px;
+    bottom: 375px;
+}
+#tp4{
+    position: relative;
+    right: 390px;
+    bottom: 325px;
+}
+.about{
+    position: absolute;
+    left: 850px;
+    bottom: 1600px;
+}
+#con{
+    position: relative;
+    left: 600px;
+    bottom: 1250px;
+}
+#last{
+    position: absolute;
+    top: 2050px;
+    left: 10px;
+}
