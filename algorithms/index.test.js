@@ -1,3 +1,4 @@
+const { TestWatcher } = require("jest");
 const countCharOccurrences = require("./challenge-1");
 const checkNumber = require("./challenge-2");
 const isLeapYear = require("./challenge-3");
